@@ -1,0 +1,1 @@
+Whenever we render the display to give out player positions also display their ranks. 
